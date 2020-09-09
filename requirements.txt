@@ -1,0 +1,11 @@
+# install using the following line: pip install -r requirements.txt
+pandas
+tensorflow
+numpy
+pyxdf
+optuna
+joblib
+matplotlib
+tobii_research
+pylsl
+tkinter
